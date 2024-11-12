@@ -9,14 +9,11 @@ Hello, I'm Abhishek Chakravarty. Front End Developer and Data Analyst with exper
 - Querying data using SQL.
 - Developing dynamic website using ReactJS and ES6 
 
-<!-- ### 📚 Projects
-
-Welcome to my portfolio, where I showcase my [projects](https://github.com/katiehuangx/Portfolio-Guide/blob/main/README.md). -->
-
 ### 🛠️ Tools
 
-- Language: ReactJS, ES6, CSS
 - Database: MySQL
+- Language: ReactJS, ES6, CSS
+- Office: Excel, PowerPoint
 - Visualization: Power BI
 
 ### 👋🏻 Connect with Me
