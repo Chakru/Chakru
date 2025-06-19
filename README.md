@@ -18,4 +18,4 @@ Hello, I'm Abhishek Chakravarty. Front End Developer and Data Analyst with exper
 
 ### 👋🏻 Connect with Me
 
-- [Linkedin](https://www.linkedin.com/in/iamchakravarty/)
+- [Linkedin](https://www.linkedin.com/in/iamchakravarty/) | [Website](https://abhishekchakravarty.netlify.app/) | [E-mail](abhishek.syncro@gmail.com)
