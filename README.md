@@ -1,6 +1,6 @@
 ## 🙋🏻‍♀️ Introducing Myself
 
-![GitHub](https://github.com/user-attachments/assets/54ff103b-0303-4a61-b931-715538a90d03)
+![GitHub](https://raw.githubusercontent.com/Chakru/Chakru/refs/heads/master/AbhishekChakravarty.png)
 
 Hello, I'm Abhishek Chakravarty. Front End Developer and Data Analyst with expertise in data analysis, data visualisation and reporting. 
 
