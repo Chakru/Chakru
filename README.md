@@ -5,16 +5,17 @@
 Hello, I'm Abhishek Chakravarty. Front End Developer and Data Analyst with expertise in data analysis, data visualisation and reporting. 
 
 - Data analysis and reporting using Excel.
-- Developing dashboards on Power BI.
+- Developing reports and dashboards on Power BI.
 - Querying data using SQL.
 - Developing dynamic website using ReactJS and ES6 
 
 ### 🛠️ Tools
 
-- Database: MySQL
-- Language: ReactJS, ES6, CSS
+- Data Visualization: Power BI, Matplotlib  
+- Data Science & Analysis: Python, NumPy, Pandas  
 - Office: Excel, PowerPoint
-- Visualization: Power BI
+- Database: MySQL, SQL Server (SSMS)  
+- Programming Languages: ReactJS, ES6, CSS
 
 ### 👋🏻 Connect with Me
 
